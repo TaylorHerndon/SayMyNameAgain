@@ -1,4 +1,10 @@
-﻿Module Module1
+﻿'Taylor Herndon
+'RCET0265
+'Spring 2021
+'Say My Name... Again
+'https://github.com/TaylorHerndon/SayMyNameAgain
+
+Module SayMyNameAgain
 
     Sub Main()
 
