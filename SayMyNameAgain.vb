@@ -1,4 +1,7 @@
-﻿'Taylor Herndon
+﻿Option Strict On
+Option Explicit On
+
+'Taylor Herndon
 'RCET0265
 'Spring 2021
 'Say My Name... Again
