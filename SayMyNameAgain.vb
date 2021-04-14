@@ -12,7 +12,7 @@ Module SayMyNameAgain
     Sub Main()
 
         Dim name As String = ""
-        Dim restart As Boolean = False
+        Dim restart As Boolean = True
 
         Console.WindowHeight = Console.LargestWindowHeight
         Console.WindowWidth = Console.LargestWindowWidth
